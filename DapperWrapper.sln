@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperWrapper", "DapperWrapper\DapperWrapper.csproj", "{71D6E08B-9827-4FB9-9E34-DE2632567B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperWrapper.Contracts", "DapperWrapper.Contracts\DapperWrapper.Contracts.csproj", "{0B78EBA6-EBE0-40FE-B3DB-62F5FF531559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D6E08B-9827-4FB9-9E34-DE2632567B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D6E08B-9827-4FB9-9E34-DE2632567B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D6E08B-9827-4FB9-9E34-DE2632567B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D6E08B-9827-4FB9-9E34-DE2632567B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B78EBA6-EBE0-40FE-B3DB-62F5FF531559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B78EBA6-EBE0-40FE-B3DB-62F5FF531559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B78EBA6-EBE0-40FE-B3DB-62F5FF531559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B78EBA6-EBE0-40FE-B3DB-62F5FF531559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF4CF35-40B9-4FD0-A162-39CEE86301DA}
+	EndGlobalSection
+EndGlobal
