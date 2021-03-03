@@ -4,7 +4,7 @@
  Currently this only handles simple CRUD operations on single entities, at some point in the future I might add support for joins and more complex operations.
  
  
- Usage in a simple repository would look something like this:
+ Usage in a simple repository with query many and query single operations would look something like this:
  
  ```csharp
      public class StorageRepository : DapperBase<Storage>, IStorageRepository
